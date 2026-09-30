@@ -41,7 +41,7 @@ It allows users to search cities worldwide and get **real-time weather updates**
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://blackholeisoka.github.io/React-WeatherApp/)
+👉 [Click here to try the app](https://1soka.github.io/React-WeatherApp/)
 
 ---
 
